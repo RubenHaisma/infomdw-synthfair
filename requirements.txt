@@ -1,0 +1,12 @@
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+scikit-fuzzy==0.5.0
+imbalanced-learn==0.13.0
+prince==0.16.1
+threadpoolctl==3.7.0
+ipykernel==6.29.5
+nbconvert==7.17.2
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
